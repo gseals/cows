@@ -1,0 +1,16 @@
+{
+  "farmerCows": {
+    "farmerCow1": {
+      "farmerId": "farmer1",
+      "cowId": "cow1"
+    },
+    "farmerCow2": {
+      "farmerId": "farmer2",
+      "cowId": "cow2"
+    },
+    "farmerCow3": {
+      "farmerId": "farmer2",
+      "cowId": "cow3"
+    }
+  }
+}
